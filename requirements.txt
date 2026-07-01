@@ -1,4 +1,6 @@
 fastapi
+python-multipart
 pydantic_settings
 uvicorn[standard]
 python-dotenv
+aiofile
